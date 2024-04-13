@@ -1,19 +1,15 @@
 
 
-<h1 align="center">Hi 👋, I'm Ahmad Kaif</h1>
-<h3 align="center">Coder | C/C++ | ReactJs | Software Development</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmad-kaif&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-kaif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmad-kaif" alt="ahmad-kaif" /></a> </p>
+<h1 align="center">Hey there, I'm Ahmad Kaif</h1>
+<h3 align="center">Coder | C/C++| Software Development | DSA</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms | ReactJs**
+- 🌱 I’m currently learning **Data Structures and Algorithms | Web Development**
 
 - 👨‍💻 All of my projects are available at [http://ahmadkaifportfolio.netlify.app](http://ahmadkaifportfolio.netlify.app)
 
-- 💬 Ask me about **DSA | Front-End Development | Career Guidance**
+- 💬 Ask me about **DSA | Web Development | CP**
 
 - 📫 How to reach me **heyahmad611@gmail.com**
 
@@ -22,10 +18,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmadkaif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadkaif/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19819599/ahmad-kaif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19819599/ahmad-kaif" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ahmad kaif 8721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmad kaif 8721" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/ahmadkaif190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmadkaif190" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/_ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ahmad/" height="30" width="40" /></a>
+<a href="https://leetcode.com/_Ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ahmad/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/hey_ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ahmad/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Ahmad_Codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ahmad/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
