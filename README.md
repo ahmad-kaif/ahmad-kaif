@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms **
 
-- 👨‍💻 All of my projects are available at [http://ahmadkaifportfolio.netlify.app](http://ahmadkaifportfolio.netlify.app)
+- 👨‍💻 About Me: [http://ahmadkaifportfolio.netlify.app](http://ahmadkaifportfolio.netlify.app)
 
 - 💬 Ask me about **DSA | Web Development | CP**
 
