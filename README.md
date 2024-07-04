@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding Background" width="400"/>
+</p>
 
 <h1 align="center">Sup! I'm Ahmad </h1>
 <h3 align="center">Coder | C++| Software Development | DSA</h3>
