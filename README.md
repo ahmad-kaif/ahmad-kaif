@@ -11,8 +11,6 @@
   
 - 🤝 I’m looking for help with **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://ahmad-portfoliooo.netlify.app/](https://ahmad-portfoliooo.netlify.app/)
-
 - 💬 Ask me about **DSA,CP & Development**
 
 - 📫 How to reach me **heyahmad611@gmail.com**
