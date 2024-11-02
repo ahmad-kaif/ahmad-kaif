@@ -21,10 +21,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmadkaif/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmadkaif/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ahmad kaif 8721" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ahmad kaif 8721" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/ahmadkaif190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/ahmadkaif190" height="30" width="40" /></a>
-<a href="https://leetcode.com/_Ahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/_ahmad/" height="30" width="40" /></a>
-<a href="https://www.geeksforgeeks.org/user/hey_ahmad/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/1280px-GeeksforGeeks.svg.png" alt="https://leetcode.com/_ahmad/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/Ahmad_Codes" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3629285-3031869.png" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
