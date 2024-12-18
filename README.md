@@ -3,15 +3,15 @@
 </p>
 
 <h1 align="center">Sup! I'm Ahmad </h1>
-<h3 align="center">Coder | C++| Software Development | DSA</h3>
+<h3 align="center">Code | Software Development </h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning ** Data Structures and Algorithms  **
   
-- 🤝 I’m looking for help with **Open Source**
+- 🤝 I’m looking for help with ** Web Scraping **
 
-- 💬 Ask me about **DSA,CP & Development**
+- 💬 Ask me about ** Anything Tech**
 
 - 📫 How to reach me **heyahmad611@gmail.com**
 
