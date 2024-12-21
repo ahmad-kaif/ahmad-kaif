@@ -42,9 +42,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center" style="font-size: 1.5rem; color: #444; margin-bottom: 2rem;">
-  <strong>Languages</strong> | <strong>Development</strong> | <strong>Tools</strong>
-</p>
+
 
 <p align="center"> 
   <!-- Languages -->
