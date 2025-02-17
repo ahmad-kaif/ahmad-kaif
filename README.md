@@ -15,7 +15,7 @@
 
 ### 🌟 About Me  
 - 🌱 I’m currently learning **Data Structures and Algorithms**  
-- 🤝 Looking for help with **Fine Tuning**  
+- 🤝 Looking for help with **Fine Tuning an AI Model**  
 - 💬 Ask me about **Anything Tech**  
 - 📫 Reach me at **heyahmad611@gmail.com**  
 - ⚡ Fun fact: **local connoisseur of monotony, bringing boredom to new heights!**
