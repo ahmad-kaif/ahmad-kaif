@@ -1,7 +1,7 @@
-name: Frequent GitHub Contribution
+name: Daily GitHub Contribution
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Runs every 5 minutes (minimum GitHub allows)
+    - cron: "0 0 * * *"  # Runs every day at midnight (UTC)
   workflow_dispatch:  # Allows manual trigger
 jobs:
   update-readme:
@@ -19,5 +19,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add README.md
-          git commit -m "Automated update" || echo "No changes to commit"
+          git commit -m "Automated daily update" || echo "No changes to commit"
           git push
