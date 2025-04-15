@@ -22,11 +22,10 @@ jobs:
         run: |
           echo "Last updated: $(date)" > README.md
 
-      - name: Commit and push changes
+      - name: Commit and push changes   # ✅ Moved to correct indentation level
         env:
           TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git add README.md
           git commit -m "Automated daily update" || echo "No changes to commit"
-          git remote set-url origin https://x-access-token:${TOKEN}@github.com/${{ github.repository }}
-          git push origin HEAD:main
+          git push https://x-access-token:${TOKEN}@github.com/${{ github.repository }} HEAD:main
