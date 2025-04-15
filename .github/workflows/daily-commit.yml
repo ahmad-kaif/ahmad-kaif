@@ -2,8 +2,8 @@ name: Daily GitHub Contribution
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # ⏱ Runs every 5 minutes
-  workflow_dispatch:       # 🧪 Manual trigger
+    - cron: "0 0 * * *"  # Runs every day at 00:00 UTC
+  workflow_dispatch:       # Allows manual trigger
 
 jobs:
   update-readme:
@@ -22,9 +22,9 @@ jobs:
         run: |
           echo "Last updated: $(date)" > README.md
 
-      - name: Commit and push changes   # ✅ Moved to correct indentation level
+      - name: Commit and push changes
         env:
-          TOKEN: ${{ secrets.PAT_TOKEN }}
+          TOKEN: ${{ secrets.PAT_TOKEN }}  # Make sure PAT_TOKEN secret is set
         run: |
           git add README.md
           git commit -m "Automated daily update" || echo "No changes to commit"
