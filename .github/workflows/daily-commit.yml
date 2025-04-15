@@ -2,8 +2,8 @@ name: Daily GitHub Contribution
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Every day at midnight UTC
-  workflow_dispatch:
+    - cron: "*/5 * * * *"  # ⏱ Runs every 5 minutes
+  workflow_dispatch:       # 🧪 Manual trigger
 
 jobs:
   update-readme:
