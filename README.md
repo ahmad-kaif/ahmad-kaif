@@ -13,7 +13,7 @@
 
 
 ### 🌟 About Me  
-- 🌱 I’m currently learning **Anything that's relevant**  
+- 🌱 I’m currently learning **AI Stuff**  
 - 🤝 Looking for help with **Fine Tuning an AI Model**  
 - 💬 Ask me about **Anything Tech**  
 - 📫 Reach me at **heyahmad611@gmail.com**  
