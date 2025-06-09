@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center" style="color: #00bfff;">Hi! I'm Ahmad </h1>
-<h3 align="center" style="color: #f8f8f2;">Code | Software Development 🚀</h3>
+<h3 align="center" style="color: #f8f8f2;">I scroll GitHub when I'm not LeetCoding!</h3>
 
 <p align="center">
   <a href="https://twitter.com/ahmadkaifansari" target="_blank">
@@ -13,11 +13,11 @@
 
 
 ### 🌟 About Me  
-- 🌱 I’m currently learning **Data Structures and Algorithms**  
+- 🌱 I’m currently learning **Anything that's relevant**  
 - 🤝 Looking for help with **Fine Tuning an AI Model**  
 - 💬 Ask me about **Anything Tech**  
 - 📫 Reach me at **heyahmad611@gmail.com**  
-- ⚡ Fun fact: **local connoisseur of monotony, bringing boredom to new heights!**
+- ⚡ Fun fact: **local connoisseur of monotony!**
 
 ---
 
