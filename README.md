@@ -2,7 +2,7 @@
   <img src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" alt="Coding Background" width="400"/>
 </p>
 
-<h1 align="center">Hola, I'm <span style="color: #00bfff;">Ahmad Kaif</span></h1>
+<h1 align="center">Hi, I'm <span style="color: #00bfff;">Ahmad Kaif</span></h1>
 <h3 align="center">I scroll GitHub when I'm not LeetCoding!</h3>
 
 <p align="center">
