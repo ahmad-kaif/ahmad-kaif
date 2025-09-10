@@ -47,43 +47,21 @@
 
 ### 🧠 Tech Stack
 
-#### 👨‍💻 Languages  
 <p align="center">
+  <!-- Languages -->
   <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,sql" />
-</p>
-
-#### 🌍 Frontend & Backend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express" />
-</p>
-
-#### 💾 Databases  
-<p align="center">
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,spring" />
+  
+  <!-- Databases -->
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
-
-#### 🎨 UI Libraries / State  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/-DaisyUI-701a75?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge&logo=zustand&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ReactHookForm-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
-</p>
-
-#### ⚙️ Tools & DevOps  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render,docker,jenkins,postman" />
-  <img src="https://img.shields.io/badge/-Clerk-000?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-#### 🤖 AI & ML  
-<p align="center">
-  <img src="https://img.shields.io/badge/-Machine%20Learning-102770?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Deep%20Learning-8E44AD?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/-NLP-007ACC?style=for-the-badge&logo=spaCy&logoColor=white" />
-  <img src="https://img.shields.io/badge/-LLMs-000000?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Fine%20Tuning-FF6F00?style=for-the-badge" />
+  
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins,aws,vercel,render,postman" />
+  
+  <!-- AI & ML -->
+  <img src="https://skillicons.dev/icons?i=tensorflow,pyTorch" />
 </p>
 
 
