@@ -1,5 +1,5 @@
 #!/bin/bash
-cd /path/to/your/repo
+cd /Users/Ahmad/Desktop/automation/ahmad-kaif
 
 # Check for changes
 if [[ -n $(git status --porcelain) ]]; then
