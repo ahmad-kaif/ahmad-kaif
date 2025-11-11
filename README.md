@@ -39,14 +39,14 @@
 
 ---
 
-### 🧠 Tech Stack
+### Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql,react,nextjs,nodejs,express,spring,mongodb,mysql,postgres,git,docker,jenkins,aws,vercel,render,postman,tensorflow,pytorch" />
 </p>
 
 ---
 
-### 📊 GitHub Insights  
+### Insights  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmad-kaif&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-kaif&layout=compact&theme=tokyonight" height="150" />
