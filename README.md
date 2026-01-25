@@ -41,8 +41,10 @@
 
 ### Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,sql,react,nextjs,nodejs,express,spring,mongodb,mysql,postgres,git,docker,jenkins,aws,vercel,render,postman,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=linux,cpp,python,javascript,react,nextjs,nodejs,express,mongodb,mysql,postgresql,git,docker,jenkins,ansible,prometheus,grafana,aws,postman,tensorflow,pytorch" />
 </p>
+
+
 
 ---
 
